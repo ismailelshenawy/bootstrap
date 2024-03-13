@@ -1,0 +1,13 @@
+.fs-32{
+    font-size: 60px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.h1-haver{
+    transition:all 1s  ease-in-out;
+ 
+}
+.h1-haver:hover{
+    opacity: 75%;
+   
+
+}
